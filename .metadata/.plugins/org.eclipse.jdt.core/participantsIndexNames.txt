@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\GFI Automation\Maven-Example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4054087053.index
+\maven-example\src\main\resources
+C:\GFI Automation\Maven-Example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2233580995.index
+\maven-project\src\main\java

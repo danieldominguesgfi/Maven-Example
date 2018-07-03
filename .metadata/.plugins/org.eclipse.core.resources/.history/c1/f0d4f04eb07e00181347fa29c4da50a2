@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package Controller;
+
+/**
+ * @author daniel.domingues
+ *
+ */
+public class Autentication {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
