@@ -360,3 +360,16 @@
 2018-07-03 15:09:52,757 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2018-07-03 15:10:00,321 [Worker-25: Launching maven-project (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
 2018-07-03 15:10:00,330 [Worker-25: Launching maven-project (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2018-07-03 15:11:34,547 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-07-03 15:11:35,963 [Worker-28: Launching maven-project (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
+2018-07-03 15:11:35,972 [Worker-28: Launching maven-project (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2018-07-03 15:12:21,651 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-07-03 15:12:25,845 [Worker-27: Launching maven-project (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
+2018-07-03 15:12:25,854 [Worker-27: Launching maven-project (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site-deploy
+2018-07-03 15:14:18,243 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-07-03 15:14:35,195 [Worker-30: Launching maven-project (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
+2018-07-03 15:14:35,203 [Worker-30: Launching maven-project (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2018-07-03 15:15:09,904 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:15:10,022 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:15:10,044 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:15:10,070 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
