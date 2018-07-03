@@ -30,3 +30,8 @@
 0:0:0:0:0:0:0:1 - - [03/Jul/2018:12:59:13 +0100] "GET /maven-project/member.jsp HTTP/1.1" 200 163
 0:0:0:0:0:0:0:1 - - [03/Jul/2018:12:59:22 +0100] "POST /maven-project/AutenticationServelet HTTP/1.1" 302 -
 0:0:0:0:0:0:0:1 - - [03/Jul/2018:12:59:22 +0100] "GET /maven-project/error.jsp HTTP/1.1" 200 151
+127.0.0.1 - - [03/Jul/2018:14:45:56 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Jul/2018:14:45:57 +0100] "GET /maven-project/Index.jsp HTTP/1.1" 200 2080
+0:0:0:0:0:0:0:1 - - [03/Jul/2018:14:46:04 +0100] "GET /maven-project/Index.jsp HTTP/1.1" 200 2080
+0:0:0:0:0:0:0:1 - - [03/Jul/2018:14:46:14 +0100] "POST /maven-project/AutenticationServelet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Jul/2018:14:46:15 +0100] "GET /maven-project/error.jsp HTTP/1.1" 200 152
