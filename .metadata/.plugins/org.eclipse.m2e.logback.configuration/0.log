@@ -315,3 +315,48 @@
 2018-07-03 15:04:26,806 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2018-07-03 15:04:31,279 [Worker-20: Launching maven-project (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
 2018-07-03 15:04:31,282 [Worker-20: Launching maven-project (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2018-07-03 15:08:24,961 [Worker-24: Launching Executing clean in C__GFI Automation_Maven-Example_maven-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
+2018-07-03 15:08:24,962 [Worker-24: Launching Executing clean in C__GFI Automation_Maven-Example_maven-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-07-03 15:08:27,584 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:08:27,611 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:08:27,625 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:08:27,644 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:08:27,651 [Worker-25: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of maven-project
+2018-07-03 15:08:27,652 [Worker-25: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for maven-project
+2018-07-03 15:08:27,702 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:08:35,252 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-07-03 15:08:36,155 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gfi.maven-project:maven-project:0.0.1-SNAPSHOT @ C:\GFI Automation\Maven-Example\maven-project\pom.xml.
+2018-07-03 15:08:37,732 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-project/src/main/java
+2018-07-03 15:08:37,733 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-project/src/main/resources
+2018-07-03 15:08:37,734 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-project/src/test/java
+2018-07-03 15:08:37,734 [Worker-26: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-project/src/test/resources
+2018-07-03 15:08:38,235 [Worker-26: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for maven-project
+2018-07-03 15:08:38,284 [Worker-26: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-07-03 15:08:38,709 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:08:38,734 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:08:38,737 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:08:38,768 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:08:38,769 [Worker-23: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of maven-project
+2018-07-03 15:08:38,769 [Worker-23: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for maven-project
+2018-07-03 15:08:38,777 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:08:52,529 [Worker-28: Launching Executing generate-sources in C__GFI Automation_Maven-Example_maven-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
+2018-07-03 15:08:52,529 [Worker-28: Launching Executing generate-sources in C__GFI Automation_Maven-Example_maven-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2018-07-03 15:08:59,650 [Worker-27: Launching Executing install in C__GFI Automation_Maven-Example_maven-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
+2018-07-03 15:08:59,651 [Worker-27: Launching Executing install in C__GFI Automation_Maven-Example_maven-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-07-03 15:09:03,147 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:09:03,159 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:09:03,161 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:09:03,173 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:09:33,122 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:09:33,201 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:09:33,218 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:09:33,257 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:09:38,869 [Worker-24: Launching Executing install in C__GFI Automation_Maven-Example_maven-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
+2018-07-03 15:09:38,869 [Worker-24: Launching Executing install in C__GFI Automation_Maven-Example_maven-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-07-03 15:09:43,910 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:09:43,929 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:09:43,942 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-03 15:09:43,974 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-03 15:09:52,757 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-07-03 15:10:00,321 [Worker-25: Launching maven-project (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\GFI Automation\Maven-Example\maven-project
+2018-07-03 15:10:00,330 [Worker-25: Launching maven-project (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
