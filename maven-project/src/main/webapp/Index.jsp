@@ -36,7 +36,7 @@
 	    	<div class="col-sm"></div>
 			</div>
 	      
-	      <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+	      <button id="btnSubmit" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
 	      <p class="mt-5 mb-3 text-muted text-center">© 2018-2019</p>
 	    </form>  
 	    <div class="col-sm"></div>

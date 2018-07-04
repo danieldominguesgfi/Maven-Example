@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome Rui you are Logged in!
+<div id="div1">Welcome Rui you are Logged in!</div>
+
 </body>
 </html>
